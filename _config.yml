@@ -1,6 +1,6 @@
 name: The Magic - Journey To Gratitude
 favicon: null
-layout_spectrum: 0.6734652929008007
+layout_spectrum: 0.99717
 typography_spectrum: 0.27822
 title: The Magic - Journey To Gratitude
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#3d3236'
+    - '#efe9d1'
+    - '#856a5f'
+    - '#710326'
+    - '#c3954c'
   brandStrength: 0.8285550826694816
   lightness: 0.20739452075213194
   saturation: 0.7260074252262712
