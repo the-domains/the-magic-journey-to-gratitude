@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Magic - Journey To Gratitude]]></title>
         <description><![CDATA[The Magic - Journey To Gratitude]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-magic-journey-to-gratitude/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:56:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 00:58:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-magic-journey-to-gratitude/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Daily Activities]]></title>
-            <description><![CDATA[<h1>Daily Activities</h1>]]></description>
-            <link>undefineddaily-activities/index.html</link>
+            <description><![CDATA[<article><h1>Daily Activities</h1><p>Day 1 - Count Your Blessings - Magic Practice Number 1</p></article>]]></description>
+            <link>https://thegrid.ai/the-magic-journey-to-gratitude/daily-activities/index.html</link>
             <guid isPermaLink="false">be9b500c-6239-4d27-933b-baf61c1b2025</guid>
-            <pubDate>Thu, 18 Feb 2016 00:56:46 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 00:58:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
